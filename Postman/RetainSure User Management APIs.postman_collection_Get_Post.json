@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "28cad125-7d80-4bb8-8770-9cb7829996ad",
+		"name": "RetainSure User Management APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44298418",
+		"_collection_link": "https://buthuruvenkatreddy.postman.co/workspace/Buthuru-Venkat-Reddy's-Workspac~ce7eb78d-3a6b-483c-8106-01363a2cf569/collection/44298418-28cad125-7d80-4bb8-8770-9cb7829996ad?action=share&source=collection_link&creator=44298418"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
