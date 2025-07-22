@@ -78,6 +78,28 @@ Use this to test login:
 - SQLite
 - Werkzeug (for password hashing)
 
+
+
+##  Postman API Collection
+
+You can test all API endpoints using the Postman collection provided.
+
+### 🔗 How to Use:
+1. Open Postman.
+2. Click on "Import".
+3. Upload the file: `postman/user-management.postman_collection.json`.
+4. Make sure your server is running at `http://127.0.0.1:5009`.
+5. Start testing the APIs!
+
+> Example Endpoints:
+> - GET /users
+> - POST /users
+> - GET /user/<user_id>
+> - PUT /user/<user_id>
+> - DELETE /user/<user_id>
+> - POST /login
+
+
 ---
 
 ## Author
